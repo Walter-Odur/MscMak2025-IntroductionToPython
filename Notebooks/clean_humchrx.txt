@@ -1,39 +1,4 @@
-----------------------------------------------------------------------------
-        UniProt - Swiss-Prot Protein Knowledgebase
-        SIB Swiss Institute of Bioinformatics; Geneva, Switzerland
-        European Bioinformatics Institute (EBI); Hinxton, United Kingdom
-        Protein Information Resource (PIR); Washington DC, USA
-----------------------------------------------------------------------------
-
-Description: Human chromosome X: entries, gene names and
-             cross-references to MIM
-Name:        humchrx.txt
-Release:     2025_03 of 18-Jun-2025
-
-----------------------------------------------------------------------------
-
-This documents lists all the human protein sequence entries whose genes
-are known to be encoded on chromosome X in this release of UniProtKB/Swiss-Prot.
-
-Number of UniProtKB/Swiss-Prot entries encoded on chromosome X: 856
-
-Reference for the chromosome sequence:
-Nature 434:325-337(2005).
-PubMed=15772651; DOI=10.1038/nature03440;
-
-For more information on chromosome X see:
-
-Sanger  : http://www.sanger.ac.uk/about/history/hgp/chrx.html
-Ensembl : https://www.ensembl.org/Homo_sapiens/mapview?chr=X
-NCBI    : https://www.ncbi.nlm.nih.gov/mapview/maps.cgi?taxid=9606&chr=X
-OMIM    : https://www.ncbi.nlm.nih.gov/Omim/getmap.cgi?chromosome=X
-DOE     : http://www.ornl.gov/sci/techresources/Human_Genome/launchpad/chromX.shtml
-
-
-_______________ _______________ ______________________ ______ ______________________
 Gene            Chromosomal     Swiss-Prot             MIM    Description
-name            position        AC        Entry name   code
-_______________ _______________ ______________________ ______ ______________________
 ABCB7           Xq13            O75027     ABCB7_HUMAN 300135 Iron-sulfur clusters transporter ABCB7, mitochondrial precursor (ATP-binding cassette sub-family B member 7, mitochondrial) (ATP-binding cassette transporter 7) (ABC transporter 7 protein) [ABC7]
 ABCD1           Xq28            P33897     ABCD1_HUMAN 300371 ATP-binding cassette sub-family D member 1 (EC 3.1.2.-) (EC 7.6.2.-) (Adrenoleukodystrophy protein) (ALDP) [ALD]
 ACE2            Xp22            Q9BYF1     ACE2_HUMAN  300335 Angiotensin-converting enzyme 2 precursor (EC 3.4.17.23) (Angiotensin-converting enzyme homolog) (ACEH) (Angiotensin-converting enzyme-related carboxypeptidase) (EC 3.4.17.-) (ACE-related carboxypeptidase) (Metalloprotease MPROT15) [Contains: Processed angiotensin-converting enzyme 2] [UNQ868/PRO1885]
@@ -924,11 +889,3 @@ ZNF81           Xp11-p22.1      P51508     ZNF81_HUMAN 314998 Zinc finger protei
 ZRSR2           Xp22.1          Q15696     U2AFM_HUMAN 300028 U2 small nuclear ribonucleoprotein auxiliary factor 35 kDa subunit-related protein 2 (CCCH type zinc finger, RNA-binding motif and serine/arginine rich protein 2) (Renal carcinoma antigen NY-REN-20) (U2(RNU2) small nuclear RNA auxiliary factor 1-like 2) (U2AF35-related protein) (URP) [U2AF1-RS2] [U2AF1L2] [U2AF1RS2] [URP]
 ZXDA            Xp11.21         P98168     ZXDA_HUMAN  300235 Zinc finger X-linked protein ZXDA
 ZXDB            Xp11.1          P98169     ZXDB_HUMAN  300236 Zinc finger X-linked protein ZXDB
--               Xp11.22         Q8N8P6     YX004_HUMAN        Putative uncharacterized protein FLJ39060
--               Xq13.1          Q56UQ5     TPT1L_HUMAN        TPT1-like protein
--               Xq23            Q9BTK2     YX002_HUMAN        Putative uncharacterized protein LOC642776
-
---------------------------------------------------------------------------------
-Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
-Distributed under the Creative Commons Attribution (CC BY 4.0) License
---------------------------------------------------------------------------------
